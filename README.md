@@ -62,7 +62,7 @@ projeto/.ipynb_checkpoints
 
 ### 3. Template guiado
 
-📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/https://github.com/michelpf/fiap-ml-visao-computacional-detector-liveness/blob/master/notebook/deteccao-liveness-notebook.ipynb)
+📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-detector-liveness/blob/master/notebook/deteccao-liveness-notebook.ipynb)
 
 > **Atenção: o grupo/aluno que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
 
