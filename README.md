@@ -87,4 +87,4 @@ O projeto será avaliado pelos seguintes itens abaixo. A nota final será uma co
 - Treinamento de modelo de liveness (1,5 pontos)
 - Métricas de desempenho do modelo (2 pontoS)
 - Implementação de solução no Streamlit (+1 ponto adicional, template se encontra na pasta streamlit-app e deve ser complementado para incluir o modelo e demais etapas)
-- Conclusões finais (2,5 pontos)
+- Conclusões (2,5 pontos)
