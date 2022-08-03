@@ -31,6 +31,8 @@ Caso o cliente não seja autenticado, ele será atendido por uma esteira dedicad
     <img src="imagens/liveness.gif">
 </p>
 
+Imagem obtida da [Chooch.ai](https://chooch.ai/computer-vision/face-authentication-system-with-liveness-detection-security/).
+
 
 ## 1. Instruções
 
@@ -62,7 +64,7 @@ projeto/.ipynb_checkpoints
 
 ### 3. Template guiado
 
-📕 Versão Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-detector-liveness/blob/master/notebook/deteccao-liveness-notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional-detector-liveness/blob/master/notebook/deteccao-liveness-notebook.ipynb)
 
 > **Atenção: o grupo/aluno que não utilizar este template (ou alterar partes indevidas) será automaticamente reprovado.**
 
